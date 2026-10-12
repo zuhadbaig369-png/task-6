@@ -1,0 +1,81 @@
+Movie,IMDB_Rating,Runtime,Rating,Votes
+The Shawshank Redemption,9.3,142,Drama,2800000
+The Godfather,9.2,175,Crime,1950000
+The Dark Knight,9.0,152,Action,2750000
+The Godfather Part II,9.0,202,Crime,1320000
+12 Angry Men,9.0,96,Drama,850000
+Schindler's List,9.0,195,Biography,1400000
+The Lord of the Rings: The Return of the King,9.0,201,Adventure,1900000
+Pulp Fiction,8.9,154,Crime,2150000
+The Lord of the Rings: The Fellowship of the Ring,8.9,178,Adventure,1950000
+"The Good, the Bad and the Ugly",8.8,161,Western,800000
+Forrest Gump,8.8,142,Drama,2200000
+Fight Club,8.8,139,Drama,2250000
+Inception,8.8,148,Action,2450000
+The Lord of the Rings: The Two Towers,8.8,179,Adventure,1750000
+Star Wars: Episode V,8.7,124,Sci-Fi,1400000
+The Matrix,8.7,136,Action,2000000
+Goodfellas,8.7,146,Crime,1250000
+One Flew Over the Cuckoo's Nest,8.7,133,Drama,1100000
+Interstellar,8.7,169,Sci-Fi,2400000
+Se7en,8.6,127,Crime,1750000
+It's a Wonderful Life,8.6,130,Drama,500000
+Seven Samurai,8.6,207,Action,380000
+The Silence of the Lambs,8.6,118,Thriller,1500000
+Saving Private Ryan,8.6,169,War,1500000
+City of God,8.6,130,Crime,850000
+Life Is Beautiful,8.6,116,Comedy,750000
+The Green Mile,8.6,189,Drama,1400000
+Terminator 2: Judgment Day,8.6,137,Action,1200000
+Star Wars: Episode IV,8.6,121,Sci-Fi,1500000
+Back to the Future,8.5,116,Adventure,1300000
+Spirited Away,8.6,125,Animation,850000
+The Pianist,8.5,150,Biography,900000
+Parasite,8.5,132,Thriller,1000000
+Gladiator,8.5,155,Action,1700000
+The Departed,8.5,151,Crime,1400000
+Whiplash,8.5,106,Drama,1100000
+The Prestige,8.5,130,Drama,1400000
+The Lion King,8.5,88,Animation,1100000
+Joker,8.4,122,Crime,1600000
+Avengers: Infinity War,8.4,149,Action,1250000
+Spider-Man: Into the Spider-Verse,8.4,117,Animation,750000
+Coco,8.4,105,Animation,600000
+Toy Story,8.3,81,Animation,1100000
+Up,8.3,96,Animation,1200000
+WALL-E,8.4,98,Animation,1200000
+The Truman Show,8.2,103,Comedy,1200000
+Jurassic Park,8.2,127,Adventure,1100000
+Titanic,7.9,195,Romance,1300000
+Avatar,7.9,162,Sci-Fi,1400000
+The Avengers,8.0,143,Action,1500000
+Black Panther,7.3,134,Action,900000
+Dune: Part Two,8.5,166,Sci-Fi,700000
+Oppenheimer,8.3,180,Biography,850000
+Barbie,6.8,114,Comedy,600000
+The Batman,7.8,176,Action,800000
+Top Gun: Maverick,8.2,130,Action,700000
+Everything Everywhere All at Once,7.8,139,Adventure,550000
+The Grand Budapest Hotel,8.1,99,Comedy,900000
+Knives Out,7.9,130,Mystery,750000
+Get Out,7.8,104,Horror,700000
+A Quiet Place,7.5,90,Horror,600000
+The Social Network,7.8,120,Biography,750000
+La La Land,8.0,128,Musical,700000
+Mad Max: Fury Road,8.1,120,Action,1100000
+Logan,8.1,137,Action,850000
+Deadpool,8.0,108,Action,1200000
+Guardians of the Galaxy,8.0,121,Action,1300000
+Doctor Strange,7.5,115,Action,800000
+Iron Man,7.9,126,Action,1200000
+Thor: Ragnarok,7.9,130,Action,850000
+The Incredibles,8.0,115,Animation,800000
+Finding Nemo,8.2,100,Animation,1100000
+Ratatouille,8.1,111,Animation,850000
+Inside Out,8.1,95,Animation,800000
+Shrek,7.9,90,Animation,800000
+Frozen,7.4,102,Animation,700000
+The Notebook,7.8,123,Romance,650000
+Pride and Prejudice,7.8,129,Romance,400000
+The Conjuring,7.5,112,Horror,600000
+It,7.3,135,Horror,650000
